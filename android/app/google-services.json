@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "595351942655",
+    "project_id": "gameco-5547c",
+    "storage_bucket": "gameco-5547c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595351942655:android:f4a78049d5834d8682e3ca",
+        "android_client_info": {
+          "package_name": "com.example.gameco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595351942655-cd4u5iq9gfn5vv00tejfjr3nn1br56md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameco",
+            "certificate_hash": "c59b30c6d27c971db7534ad44c2b097e839085b8"
+          }
+        },
+        {
+          "client_id": "595351942655-peso9vrfib7kp70hl303dpurlan71ek5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWh3_UnpZDdmBhyBZzE3Htw4xjCyd-TBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595351942655-peso9vrfib7kp70hl303dpurlan71ek5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595351942655-g4a4pm6t6b4tctvkechniqhvafot2dg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
